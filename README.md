@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Ruchi-coder
 - 👀 I’m interested in Software Engineering field and Software Developer field.
-- 🌱 I’m currently learning Python Advanced, C++, Web development-Html, Css, Javascript, PHP, Bootstrap, Mysql, Django.
+- Currenlty I am working as a Project Engineer(Developer) at wipro.
+- 🌱 Skills- Python Advanced, C++, Web development-Html, Css, Javascript, PHP, Bootstrap, Mysql, Django, Automation Testing and Manual Testing,
+- Docker, Docker Swarm, AWS
 
 
 
