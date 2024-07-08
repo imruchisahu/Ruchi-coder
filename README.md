@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ruchi-coder
-- 👀 I’m interested in Software Engineering field and Software Developer field.
+- 👀 I’m interested in Software Engineering(Software Tester) field and Software Developer field.
 - Currenlty I am working as a Project Engineer(Developer) at wipro.
-- 🌱 Skills- Python Advanced, C++, Web development-Html, Css, Javascript, PHP, Bootstrap, Mysql, Django, Automation Testing and Manual Testing,
-- Docker, Docker Swarm, AWS
+- 🌱 Skills- Software Tester, STLC, API Automation Testing and Manual Testing, Performance Testing, Fuctional, Jmeter, Jira ,Python Advanced, Web development-Html, Css, Javascript, PHP, Bootstrap, Mysql, Django, 
 
 
 
